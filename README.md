@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
  <img  align="right" alt="Coding" width="400"
-        src="[https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+        src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-mani-kandan&label=Profile%20views&color=0e75b6&style=flat" alt="b-mani-kandan" /> </p>
